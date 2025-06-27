@@ -53,3 +53,7 @@ psql --username=freecodecamp --dbname=bikes
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+git push
+git remote add new https://github.com/Chetan3500/Learn-Bash-and-SQL-by-Building-a-Bike-Rental-Shop.git
+git push new main
+git add .
