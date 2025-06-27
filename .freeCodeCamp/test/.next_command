@@ -21,3 +21,4 @@ echo 'M e '
 echo 'M e '
 echo ' M e '
 echo ' M e '
+echo "$(echo ' M e ')."
